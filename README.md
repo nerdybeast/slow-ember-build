@@ -1,4 +1,6 @@
-# slow-build
+# slow-build (archived)
+
+## This repo was just a POC to submit to the ember team regarding the slow build process on Windows
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
